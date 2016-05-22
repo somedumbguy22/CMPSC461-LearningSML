@@ -1,0 +1,11 @@
+stirling(4,2);
+stirling(10,5);
+A 10;
+factors 100;
+factors 1024;
+factors 9151;
+factors 12499;
+coprime(27,144);
+coprime(1001,720);
+crossmap(op +, [1,2,3,4],[5,6,7,8,9]);
+crossmap(coprime, [24,27,36,40], [125,36,63,91]);
